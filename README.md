@@ -1,6 +1,3 @@
-- 👋 Hi, I’m @pranavsivakumar01
-
-
 # Hi there, I'm Pranav! 👋
 
 I'm a full-stack developer passionate about coding, web technologies, and AI. I love building projects that solve real-world problems and exploring new technologies.
@@ -9,7 +6,7 @@ I'm a full-stack developer passionate about coding, web technologies, and AI. I 
 - 🔭 I’m currently working on: [Event Management System](https://github.com/pranav01/event-management)
 - 🤔 I’m looking for help with: Advanced React and MongoDB
 - 💬 Ask me about: Machine Learning, Web Development
-- 📫 How to reach me: [Email Me](pranavsivakumar328@gmail.com)
+- 📫 How to reach me: [Email Me](mailto:youremail@example.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love playing chess and experimenting with generative AI!
 
@@ -51,7 +48,13 @@ A CNN-based model to identify plant diseases using image recognition.
 
 ---
 
+## 🏆 Competitive Programming
+
+- LeetCode: [Pranav Siva's Profile](https://leetcode.com/u/Pranav_siva/)
+
+---
+
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranav-siva-b77245259)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-FF6F61?style=flat&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
