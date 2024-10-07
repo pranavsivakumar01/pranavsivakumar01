@@ -6,7 +6,7 @@ I'm a full-stack developer passionate about coding, web technologies, and AI. I 
 - 🔭 I’m currently working on: [Event Management System](https://github.com/pranav01/event-management)
 - 🤔 I’m looking for help with: Advanced React and MongoDB
 - 💬 Ask me about: Machine Learning, Web Development
-- 📫 How to reach me: [Email Me](mailto:youremail@example.com)
+- 📫 How to reach me: [Email Me](pranavsivakumar328@gmail.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love playing chess and experimenting with generative AI!
 
