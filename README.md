@@ -3,7 +3,7 @@
 I'm a full-stack developer passionate about coding, web technologies, and AI. I love building projects that solve real-world problems and exploring new technologies.
 
 - 🌱 I’m currently learning: Full-Stack Development
-- 🔭 I’m currently working on: [Event Management System](https://github.com/pranav01/event-management)
+- 🔭 I’m currently working on: [Event Management System](https://github.com/pranavsivakumar01/event-management)
 - 🤔 I’m looking for help with: Advanced React and MongoDB
 - 💬 Ask me about: Machine Learning, Web Development
 - 📫 How to reach me: [Email Me](pranavsivakumar328@gmail.com)
@@ -39,10 +39,10 @@ I'm a full-stack developer passionate about coding, web technologies, and AI. I 
 
 ## 📂 Pinned Projects
 
-### [Event Management System](https://github.com/pranav01/event-management)
+### [Event Management System](https://github.com/pranavsivakumar01/event-management)
 An app for managing and conducting college events efficiently. Built with React, Node.js, and MongoDB.
 
-### [Plant Disease Detection](https://github.com/pranav01/plant-disease-detection)
+### [Plant Disease Detection](https://github.com/pranavsivakumar01/plant-disease-detection)
 A CNN-based model to identify plant diseases using image recognition.
 
 ---
