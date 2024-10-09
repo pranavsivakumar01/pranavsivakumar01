@@ -30,10 +30,6 @@ I'm a full-stack developer passionate about coding, web technologies, and AI. I 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranav01&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
----
-
-## 🔥 Contribution Streak
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=pranav01&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ---
