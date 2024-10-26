@@ -4,9 +4,8 @@ I'm a full-stack developer passionate about coding, web technologies, and AI. I 
 
 - 🌱 I’m currently learning: Full-Stack Development
 - 🔭 I’m currently working on: [Event Management System](https://github.com/pranavsivakumar01/event-management)
-- 🤔 I’m looking for help with: Advanced React and MongoDB
 - 💬 Ask me about: Machine Learning, Web Development
-- 📫 How to reach me: [Email Me](pranavas.22aim@kongu.edu)
+- 📫 How to reach me: [Email Me](mailto:pranavas.22aim@kongu.edu)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love playing chess and experimenting with generative AI!
 
@@ -28,12 +27,9 @@ I'm a full-stack developer passionate about coding, web technologies, and AI. I 
 
 ![Pranav's GitHub stats](https://github-readme-stats.vercel.app/api?username=pranav01&show_icons=true&theme=radical)
 
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=pranav01&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranavsivakumar01&layout=compact&hide=html)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ---
 
@@ -50,6 +46,8 @@ A CNN-based model to identify plant diseases using image recognition.
 ## 🏆 Competitive Programming
 
 - LeetCode: [Pranav Siva's Profile](https://leetcode.com/u/Pranav_siva/)
+
+![LeetCode Progress](IMAGE_URL) <!-- Replace IMAGE_URL with the actual link or path -->
 
 ---
 
