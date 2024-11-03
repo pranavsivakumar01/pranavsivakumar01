@@ -7,7 +7,7 @@ I'm a full-stack developer passionate about coding, web technologies, and AI. I 
 - 💬 Ask me about: Machine Learning, Web Development
 - 📫 How to reach me: [Email Me](mailto:pranavas.22aim@kongu.edu)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love playing chess and experimenting with generative AI!
+
 
 ---
 
