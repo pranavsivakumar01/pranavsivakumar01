@@ -38,7 +38,7 @@ A CNN-based model to identify plant diseases using image recognition.
 
 - LeetCode: [Pranav Siva's Profile](https://leetcode.com/u/Pranav_siva/)
 
-![LeetCode Progress](IMAGE_URL) <!-- Replace IMAGE_URL with the actual link or path -->
+![LeetCode Progress](![LeetCode Stats](https://leetcode.card.workers.dev/Pranav_siva?theme=dark&font=baloo&extension=null)) 
 
 ---
 
