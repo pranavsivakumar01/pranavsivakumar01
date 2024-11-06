@@ -2,7 +2,7 @@
 
 I'm a full-stack developer passionate about coding, web technologies, and AI. I love building projects that solve real-world problems and exploring new technologies.
 
-- 🌱 I’m currently learning: Full-Stack Development
+
 - 🔭 I’m currently working on: [Event Management System](https://github.com/pranavsivakumar01/event-management)
 - 💬 Ask me about: Machine Learning, Web Development
 - 📫 How to reach me: [Email Me](mailto:pranavas.22aim@kongu.edu)
