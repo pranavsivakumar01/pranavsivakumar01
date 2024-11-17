@@ -3,7 +3,7 @@
 I'm a full-stack developer passionate about coding, web technologies, and AI. I love building projects that solve real-world problems and exploring new technologies.
 
 
-- 🔭 I’m currently working on: [Event Management System](https://github.com/pranavsivakumar01/event-management)
+- 🔭 I’m currently done the project : [Event Management System](https://github.com/pranavsivakumar01/event-management)
 - 💬 Ask me about: Machine Learning, Web Development
 - 😄 Pronouns: He/Him
 
