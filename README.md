@@ -31,6 +31,8 @@ An app for managing and conducting college events efficiently. Built with React,
 ### [Plant Disease Detection](https://github.com/pranavsivakumar01/plant-disease-detection)
 A CNN-based model to identify plant diseases using image recognition.
 
+##[Product description genearation website link](https://sweet-croissant-7d5cbb.netlify.app/)
+
 ---
 
 ## 🏆 Competitive Programming
