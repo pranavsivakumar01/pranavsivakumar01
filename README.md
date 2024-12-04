@@ -1,46 +1,41 @@
-# Hi there, I'm Pranav! 👋
+# Hi there 👋 I'm Pranav
 
-I'm a **Full-Stack Developer** passionate about coding, web technologies, and AI. I enjoy creating impactful projects that solve real-world problems and exploring cutting-edge technologies to drive innovation.
-
-- 🔭 **Recent Project:** [Event Management System](https://github.com/pranavsivakumar01/event-management)  
-- 💬 **Ask Me About:** Machine Learning, Web Development  
-- 😄 **Pronouns:** He/Him  
-
-
-## 🚀 Technologies & Tools
-
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
+![Website](https://img.shields.io/badge/Website-Visit-red?style=for-the-badge)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge)](https://www.linkedin.com/in/pranav-siva-b77245259)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge)](https://leetcode.com/u/Pranav_siva/)
 
 ---
 
-## 📂 Featured Projects
-
-### [🌟 Event Management System](https://github.com/pranavsivakumar01/event-management)  
-A feature-rich app for managing and conducting college events efficiently.  
-**Tech Stack:** React, Node.js, MongoDB.  
-**Status:** **Completed**
-
-### [🌿 Plant Disease Detection](https://github.com/pranavsivakumar01/plant-disease-detection)  
-A deep learning-based solution for detecting plant diseases using CNNs.  
-**Key Features:** Image recognition, disease classification.  
-
-### [📝 Product Description Generator](https://sweet-croissant-7d5cbb.netlify.app/)  
-A web app leveraging AI to generate compelling product descriptions.  
+## 🚀 Tools & Technologies I Use:
+<p>
+  <img src="https://img.shields.io/badge/-React-blue?style=flat&logo=react" alt="React" />
+  <img src="https://img.shields.io/badge/-Node.js-green?style=flat&logo=node.js" alt="Node.js" />
+  <img src="https://img.shields.io/badge/-MongoDB-green?style=flat&logo=mongodb" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/-TailwindCSS-blue?style=flat&logo=tailwindcss" alt="TailwindCSS" />
+  <img src="https://img.shields.io/badge/-Python-blue?style=flat&logo=python" alt="Python" />
+  <img src="https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/-PowerBI-orange?style=flat&logo=powerbi" alt="Power BI" />
+  <img src="https://img.shields.io/badge/-VSCode-blue?style=flat&logo=visualstudiocode" alt="VSCode" />
+</p>
 
 ---
 
-## 🏆 Competitive Programming
+## 📊 LeetCode Stats:
+![LeetCode Stats](https://leetcard.jacoblin.cool/Pranav_siva?theme=dark&font=Source%20Code%20Pro)
 
-- **LeetCode Profile:** [Pranav Siva](https://leetcode.com/u/Pranav_siva/)  
+---
 
-![LeetCode Stats](https://leetcode.card.workers.dev/Pranav_siva?theme=dark&font=baloo&extension=null)
+## 🌟 A Glimpse of My Journey:
+- 🏆 **Hackathon Finalist**: Secured **2nd place** in the **KEC 30-hour Hackathon**.
+- 🚀 **Projects**:
+  - **KEC Guest House Booking System** ([Live Link](http://pranav01.pythonanywhere.com/)).
+  - **Sign Language Recognition** using CNNs.
+  - **Product Recommendation System** powered by ML.
+- 📊 Worked on **Smart Business Dashboards** for SMEs and a **Video Analytics System** for traffic monitoring.
 
+---
 
-Feel free to explore my projects, connect, or reach out for collaborations and opportunities!
+> "Consistency and innovation are the keys to growth."  
+> — **Pranav Siva**
+
+Feel free to connect and explore my journey further!
