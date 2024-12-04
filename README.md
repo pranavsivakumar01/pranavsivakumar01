@@ -6,7 +6,6 @@ I'm a **Full-Stack Developer** passionate about coding, web technologies, and AI
 - 💬 **Ask Me About:** Machine Learning, Web Development  
 - 😄 **Pronouns:** He/Him  
 
----
 
 ## 🚀 Technologies & Tools
 
