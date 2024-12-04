@@ -42,13 +42,5 @@ A web app leveraging AI to generate compelling product descriptions.
 
 ![LeetCode Stats](https://leetcode.card.workers.dev/Pranav_siva?theme=dark&font=baloo&extension=null)
 
----
-
-## 📫 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranav-siva-b77245259)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF6F61?style=flat&logo=google-chrome&logoColor=white)](https://yourportfolio.com)  
-
----
 
 Feel free to explore my projects, connect, or reach out for collaborations and opportunities!
