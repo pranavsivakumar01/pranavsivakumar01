@@ -28,7 +28,7 @@
 ## 🌟 A Glimpse of My Journey:
 - 🏆 **Hackathon Finalist**: Secured **2nd place** in the **KEC 30-hour Hackathon**.
 - 🚀 **Projects**:
-  - **KEC Guest House Booking System** ([Live Link](http://pranav01.pythonanywhere.com/)).
+  - **KEC Guest House Booking System** ([Live Link](http://pranavas.pythonanywhere.com/)).
   - **Sign Language Recognition** using CNNs.
   - **Product Recommendation System** powered by ML.
 - 📊 Worked on **Smart Business Dashboards** for SMEs and a **Video Analytics System** for traffic monitoring.
