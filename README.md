@@ -1,6 +1,5 @@
 # Hi there 👋 I'm Pranav
 
-![Website](https://img.shields.io/badge/Website-Visit-red?style=for-the-badge)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge)](https://www.linkedin.com/in/pranav-siva-b77245259)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge)](https://leetcode.com/u/Pranav_siva/)
 
