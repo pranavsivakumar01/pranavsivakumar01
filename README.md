@@ -24,7 +24,7 @@
 
 ---
 
-## 🌟 A Glimpse of My Journey:
+## 🌟 A Glimpse of My Journey
 - 🏆 **Hackathon Finalist**: Secured **2nd place** in the **KEC 30-hour Hackathon**.
 - 🚀 **Projects**:
   - **KEC Guest House Booking System** ([Live Link](http://pranavas.pythonanywhere.com/)).
