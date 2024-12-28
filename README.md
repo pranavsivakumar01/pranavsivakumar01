@@ -1,8 +1,8 @@
 # Hi there 👋 I'm Pranav
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge)](https://www.linkedin.com/in/pranav-siva-b77245259)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge)](https://leetcode.com/u/Pranav_siva/)
-[![Portfolio]](https://precious-genie-20d3a9.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge)](https://www.linkedin.com/in/pranav-siva-b77245259)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge)](https://leetcode.com/u/Pranav_siva/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-green?style=for-the-badge)](https://precious-genie-20d3a9.netlify.app/)
 
 ---
 
@@ -26,16 +26,32 @@
 ---
 
 ## 🌟 A Glimpse of My Journey
-- 🏆 **Hackathon Finalist**: Secured **2nd place** in the **KEC 30-hour Hackathon**.
-- 🚀 **Projects**:
-  - **KEC Guest House Booking System** ([Live Link](http://pranavas.pythonanywhere.com/)).
-  - **Sign Language Recognition** using CNNs.
-  - **Product Recommendation System** powered by ML.
-- 📊 Worked on **Smart Business Dashboards** for SMEs and a **Video Analytics System** for traffic monitoring.
+- 🏆 **Hackathon Finalist**: Secured **2nd place** in the **KEC 30-hour Hackathon**.  
+- 🚀 **Projects**:  
+  - **KEC Guest House Booking System**  
+    - 🌐 Built with **Django** and **Bootstrap**  
+    - 📅 Enables seamless room booking and management.  
+    - 🔗 [Live Link](http://pranavas.pythonanywhere.com/)  
+  - **Sign Language Recognition**  
+    - 🧠 Implemented using **CNNs** for gesture detection.  
+  - **Product Recommendation System**  
+    - 📊 Built with **Machine Learning** for personalized product suggestions.  
+  - **Smart Business Dashboards**  
+    - 📈 Designed for SMEs to visualize sales and growth data.  
+  - **Video Analytics System**  
+    - 🚦 Tracks and analyzes traffic data using video streams.
 
 ---
 
-> "Consistency and innovation are the keys to growth."  
-> — **Pranav Siva**
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pranav&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pranav&layout=compact&theme=tokyonight)
 
-Feel free to connect and explore my journey further!
+---
+
+## 📬 Get in Touch
+- 📧 Email: pranav@example.com  
+- 🌐 Portfolio: [Visit Here](https://precious-genie-20d3a9.netlify.app/)  
+
+> "Consistency and innovation are the keys to growth."  
+> — **Pranav Siva**  
