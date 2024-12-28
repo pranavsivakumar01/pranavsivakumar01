@@ -2,6 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge)](https://www.linkedin.com/in/pranav-siva-b77245259)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge)](https://leetcode.com/u/Pranav_siva/)
+[![Portfolio](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge)](https://precious-genie-20d3a9.netlify.app/)
 
 ---
 
