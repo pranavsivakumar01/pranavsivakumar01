@@ -19,7 +19,7 @@
 
 ---
 
-## 📊 LeetCode Stats:
+## 📊 LeetCode Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Pranav_siva?theme=dark&font=Source%20Code%20Pro)
 
 ---
