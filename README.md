@@ -43,14 +43,9 @@
 
 ---
 
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pranav&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pranav&layout=compact&theme=tokyonight)
-
----
 
 ## 📬 Get in Touch
-- 📧 Email: pranav@example.com  
+- 📧 Email: pranavsivakumar328@gmail.com  
 - 🌐 Portfolio: [Visit Here](https://precious-genie-20d3a9.netlify.app/)  
 
 > "Consistency and innovation are the keys to growth."  
