@@ -46,7 +46,7 @@
 
 ## 📬 Get in Touch
 - 📧 Email: pranavsivakumar328@gmail.com  
-- 🌐 Portfolio: [Visit Here](https://precious-genie-20d3a9.netlify.app/)  
+- 🌐 Portfolio: [Visit Here](https://pranavsivakumar.netlify.app/)  
 
 > "Consistency and innovation are the keys to growth."  
 > — **Pranav Siva**  
