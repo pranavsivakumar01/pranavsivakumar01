@@ -1,123 +1,86 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Pranav's Portfolio</title>
-    <style>
-        body {
-            font-family: 'Arial', sans-serif;
-            background-color: #f4f4f9;
-            color: #333;
-            margin: 0;
-            padding: 20px;
-        }
-        .header {
-            text-align: center;
-            background-color: #0066cc;
-            padding: 20px;
-            color: white;
-            border-radius: 10px;
-            box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
-        }
-        .badge {
-            padding: 10px 15px;
-            margin: 5px;
-            border-radius: 25px;
-            color: white;
-            text-decoration: none;
-        }
-        .badge.linkedin {
-            background-color: #0077b5;
-        }
-        .badge.leetcode {
-            background-color: #f7a800;
-        }
-        .badge.portfolio {
-            background-color: #4caf50;
-        }
-        .tools img {
-            margin: 5px;
-        }
-        .tools {
-            display: flex;
-            flex-wrap: wrap;
-            justify-content: center;
-            margin-top: 20px;
-        }
-        .projects {
-            background-color: #fff;
-            padding: 20px;
-            border-radius: 10px;
-            box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
-            margin-top: 20px;
-        }
-        .projects h3 {
-            color: #0066cc;
-        }
-        .quote {
-            font-style: italic;
-            color: #777;
-            text-align: center;
-            margin-top: 40px;
-        }
-        .contact {
-            text-align: center;
-            margin-top: 30px;
-        }
-        .contact a {
-            color: #0066cc;
-            text-decoration: none;
-            font-weight: bold;
-        }
-    </style>
-</head>
-<body>
+# Hi there 👋 I'm Pranav
 
-    <div class="header">
-        <h1>Hi there, I'm <span style="color: #ffcc00;">Pranav</span> 👋</h1>
-        <a class="badge linkedin" href="https://www.linkedin.com/in/pranav-siva-b77245259">LinkedIn</a>
-        <a class="badge leetcode" href="https://leetcode.com/u/Pranav_siva/">LeetCode</a>
-        <a class="badge portfolio" href="https://pranavsivakumar.netlify.app/">Portfolio</a>
-    </div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge)](https://www.linkedin.com/in/pranav-siva-b77245259)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge)](https://leetcode.com/u/Pranav_siva/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-green?style=for-the-badge)](https://pranavsivakumar.netlify.app/)  
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge)](https://github.com/PranavSiva)
 
-    <div class="tools">
-        <h2>🚀 Technologies I Work With:</h2>
-        <img src="https://img.shields.io/badge/-React-blue?style=flat&logo=react" alt="React" />
-        <img src="https://img.shields.io/badge/-Node.js-green?style=flat&logo=node.js" alt="Node.js" />
-        <img src="https://img.shields.io/badge/-MongoDB-green?style=flat&logo=mongodb" alt="MongoDB" />
-        <img src="https://img.shields.io/badge/-TailwindCSS-blue?style=flat&logo=tailwindcss" alt="TailwindCSS" />
-        <img src="https://img.shields.io/badge/-Python-blue?style=flat&logo=python" alt="Python" />
-        <img src="https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript" alt="JavaScript" />
-        <img src="https://img.shields.io/badge/-PowerBI-orange?style=flat&logo=powerbi" alt="Power BI" />
-        <img src="https://img.shields.io/badge/-VSCode-blue?style=flat&logo=visualstudiocode" alt="VSCode" />
-    </div>
+---
 
-    <div class="projects">
-        <h3>🌟 A Glimpse of My Journey</h3>
-        <ul>
-            <li><strong>🏆 Hackathon Finalist:</strong> Secured <strong>2nd place</strong> in the <strong>KEC 30-hour Hackathon</strong>.</li>
-            <li><strong>🚀 Key Projects:</strong>
-                <ul>
-                    <li><strong>KEC Guest House Booking System:</strong> Built with <strong>Django</strong> and <strong>Bootstrap</strong>. <a href="http://pranavas.pythonanywhere.com/" target="_blank">[Live Link]</a></li>
-                    <li><strong>Sign Language Recognition:</strong> Implemented using <strong>CNNs</strong> for gesture recognition.</li>
-                    <li><strong>Product Recommendation System:</strong> Built with <strong>Machine Learning</strong> for personalized recommendations.</li>
-                    <li><strong>Smart Business Dashboards:</strong> Designed for SMEs to visualize sales and growth data.</li>
-                    <li><strong>Video Analytics System:</strong> Tracks and analyzes traffic data using video streams.</li>
-                </ul>
-            </li>
-        </ul>
-    </div>
+## 🚀 Tools & Technologies I Use:
 
-    <div class="quote">
-        <p>“Financial freedom is freedom from fear.” — <strong>Robert Kiyosaki</strong></p>
-    </div>
+<p align="center">
+  <img src="https://img.shields.io/badge/-React-blue?style=flat&logo=react" alt="React" />
+  <img src="https://img.shields.io/badge/-Node.js-green?style=flat&logo=node.js" alt="Node.js" />
+  <img src="https://img.shields.io/badge/-MongoDB-green?style=flat&logo=mongodb" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/-TailwindCSS-blue?style=flat&logo=tailwindcss" alt="TailwindCSS" />
+  <img src="https://img.shields.io/badge/-Python-blue?style=flat&logo=python" alt="Python" />
+  <img src="https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/-PowerBI-orange?style=flat&logo=powerbi" alt="Power BI" />
+  <img src="https://img.shields.io/badge/-VSCode-blue?style=flat&logo=visualstudiocode" alt="VSCode" />
+</p>
 
-    <div class="contact">
-        <h3>📬 Let's Connect:</h3>
-        <p>Email: <strong>pranavsivakumar328@gmail.com</strong></p>
-        <p>Portfolio: <a href="https://pranavsivakumar.netlify.app/">Visit Here</a></p>
-    </div>
+---
 
-</body>
-</html>
+## 📊 LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Pranav_siva?theme=dark&font=Source%20Code%20Pro)
+
+---
+
+## 🌟 A Glimpse of My Journey
+
+- 🏆 **Hackathon Finalist**: Secured **2nd place** in the **KEC 30-hour Hackathon**.  
+- 🚀 **Key Projects**:
+  - **KEC Guest House Booking System**  
+    - 🌐 Built with **Django** and **Bootstrap**  
+    - 📅 Enables seamless room booking and management.  
+    - 🔗 [Live Link](http://pranavas.pythonanywhere.com/)
+  - **Sign Language Recognition**  
+    - 🧠 Implemented using **CNNs** for gesture recognition.  
+  - **Product Recommendation System**  
+    - 📊 Built with **Machine Learning** for personalized recommendations.  
+  - **Smart Business Dashboards**  
+    - 📈 Designed for SMEs to visualize sales and growth data.  
+  - **Video Analytics System**  
+    - 🚦 Tracks and analyzes traffic data using video streams.
+
+---
+
+## 📬 Get in Touch
+
+- 📧 Email: pranavsivakumar328@gmail.com  
+- 🌐 Portfolio: [Visit Here](https://pranavsivakumar.netlify.app/)
+
+---
+
+> "Financial freedom is freedom from fear." — **Robert Kiyosaki**
+
+---
+
+## 🛠️ Setup Instructions
+
+1. Clone the repository:
+
+    ```bash
+    git clone https://github.com/PranavSiva/your-repo-name.git
+    ```
+
+2. Install the dependencies:
+
+    ```bash
+    cd your-repo-name
+    npm install
+    ```
+
+3. Run the application:
+
+    ```bash
+    npm start
+    ```
+
+---
+
+## 📑 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
