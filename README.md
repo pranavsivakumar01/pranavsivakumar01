@@ -56,30 +56,7 @@
 
 > "Financial freedom is freedom from fear." — **Robert Kiyosaki**
 
----
 
-## 🛠️ Setup Instructions
-
-1. Clone the repository:
-
-    ```bash
-    git clone https://github.com/PranavSiva/your-repo-name.git
-    ```
-
-2. Install the dependencies:
-
-    ```bash
-    cd your-repo-name
-    npm install
-    ```
-
-3. Run the application:
-
-    ```bash
-    npm start
-    ```
-
----
 
 ## 📑 License
 
