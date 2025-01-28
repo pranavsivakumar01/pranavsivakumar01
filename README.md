@@ -40,12 +40,7 @@
     - 🧠 Implemented using **CNNs** for gesture recognition.  
   - **Product Recommendation System**  
     - 📊 Built with **Machine Learning** for personalized recommendations.  
-  - **Smart Business Dashboards**  
-    - 📈 Designed for SMEs to visualize sales and growth data.  
-  - **Video Analytics System**  
-    - 🚦 Tracks and analyzes traffic data using video streams.
-
----
+  
 
 ## 📬 Get in Touch
 
