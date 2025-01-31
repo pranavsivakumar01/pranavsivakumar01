@@ -27,21 +27,6 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Pranav_siva?theme=dark&font=Source%20Code%20Pro)
 
 ---
-
-## 🌟 A Glimpse of My Journey
-
-- 🏆 **Hackathon Finalist**: Secured **2nd place** in the **KEC 30-hour Hackathon**.  
-- 🚀 **Key Projects**:
-  - **KEC Guest House Booking System**  
-    - 🌐 Built with **Django** and **Bootstrap**  
-    - 📅 Enables seamless room booking and management.  
-    - 🔗 [Live Link](http://pranavas.pythonanywhere.com/)
-  - **Sign Language Recognition**  
-    - 🧠 Implemented using **CNNs** for gesture recognition.  
-  - **Product Recommendation System**  
-    - 📊 Built with **Machine Learning** for personalized recommendations.  
-  
-
 ## 📬 Get in Touch
 
 - 📧 Email: pranavsivakumar328@gmail.com  
