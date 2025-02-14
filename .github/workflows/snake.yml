@@ -1,0 +1,22 @@
+name: Generate Snake Animation
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  snake:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate snake animation
+        uses: Platane/snk@master
+        with:
+          github_user_name: pranavsivakumar01
+          outputs: |
+            github-contribution-grid-snake.svg
+            github-contribution-grid-snake-dark.svg?palette=github-dark
+      - name: Push to GitHub
+        uses: actions/upload-artifact@v2
+        with:
+          name: snake
+          path: github-contribution-grid-snake.svg
