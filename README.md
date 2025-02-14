@@ -36,7 +36,7 @@
 ![](https://leetcard.jacoblin.cool/Pranav_siva?theme=dark&ext=heatmap)
 
 
-![snake gif](https://github.com/pranavsivakumar01/pranavsivakumar01/blob/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/pranavsivakumar01/pranavsivakumar01/output/snake.svg" alt="Snake animation" />
 
 
 
