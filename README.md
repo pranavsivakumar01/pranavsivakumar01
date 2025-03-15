@@ -51,4 +51,4 @@
 
 ---
 
-> "Financial freedom is freedom from fear." — **Robert Kiyosaki**
+> "Growth and comfort do not coexist." 
