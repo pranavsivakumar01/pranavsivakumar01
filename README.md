@@ -18,8 +18,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge)](https://www.linkedin.com/in/pranav-siva-b77245259)  
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge)](https://leetcode.com/u/Pranav_siva/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-green?style=for-the-badge)](https://pranavsivakumar.netlify.app/)  
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge)](https://github.com/pranavsivakumar01)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-green?style=for-the-badge)](https://https://pranavsivakumar01.netlify.app/)  
+[
 
 ---
 
