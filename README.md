@@ -1,6 +1,6 @@
 <h1 align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Pranav</h1>
 
-👋 Hey there! I'm Pranav, a passionate Full Stack Developer and AI Enthusiast with a deep love for building impactful tech solutions. I thrive on challenges, whether it’s crafting seamless web experiences, solving complex algorithms, or diving into AI-driven innovations.
+👋 Hey there! I'm Pranav, a passionate Frontend Heavy  Full Stack Developer and AI Enthusiast with a deep love for building impactful tech solutions. I thrive on challenges, whether it’s crafting seamless web experiences, solving complex algorithms, or diving into AI-driven innovations.
 
 
 
